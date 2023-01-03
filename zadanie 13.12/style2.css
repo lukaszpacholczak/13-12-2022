@@ -1,0 +1,23 @@
+body{
+    background-color:black ;
+}
+div{
+    background-color: yellow;
+    width: 70%;
+    border-top-width: 5px;
+    border-top-color: red;
+    border-top-style: solid;
+    padding: 10px;
+
+}
+.dwa{
+    background-image: url(tlo.png);
+    padding-top:20px;
+    padding-bottom:20px;
+    border-left-width: 3px;
+    border-right-width: 3px;
+    border-left-color: red;
+    border-right-color: red;
+    border-right-style: solid;
+    border-left-style: solid;
+ }

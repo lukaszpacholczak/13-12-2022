@@ -1,0 +1,26 @@
+h2{
+    background-color: rgb(102,0,51);
+    color: #ccffcc;
+    text-align: center;
+    border-width: 3px;
+    border-color: red;
+    border-style: dashed;
+}
+
+.jeden {
+   
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+
+}
+.dwa{
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.trzy{
+border-top-left-radius: 20px;
+border-top-right-radius: 20px;
+border-bottom-left-radius: 20px;
+border-bottom-right-radius: 20px;
+}
